@@ -1,0 +1,105 @@
+body {
+   background-color: pink;
+	margin-top: 10px ;
+	margin-bottom: 30px;
+	margin-left: 10px ;
+	margin-right: 10px ;
+
+
+	font-family:famille de polices : 'Ubuntu', sans empattement ;
+}
+	
+
+
+
+h1 {
+   color: deeppink;
+   font-size: 50px;
+   background: lightpink;
+
+}
+
+h2, h3, h4 {
+	 color: hotpink;
+   font-size: 20px;
+   text-align: center;
+   font-family: 'Lobster', cursive;
+}
+
+h4, ol {
+	text-align: left;
+
+}
+
+.fille-dessine {
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+}
+
+
+
+.application-draw {
+ width: 700px;
+ height: 300px;
+ object-fit: cover;
+
+}
+
+
+
+.picture-pen {
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+}
+
+
+.picture-paper {
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+}
+
+
+
+
+
+
+.center-content{
+	text-align: center;
+}
+
+div { 
+	padding: 50px ;
+	margin-top: 10px;
+	margin-bottom: 20px;
+
+}
+
+.video-center {
+	text-align: center;
+}
+.element-aligned{
+	display: flex;
+	justify-content: space-around ;
+}
+
+
+.link-aligned {
+ 	display: flex;
+ 	justify-content: space-around;
+ 	padding: 3%;
+ 	border: 2px solid white;
+
+}
+
+a {
+
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: hotpink;
+}
